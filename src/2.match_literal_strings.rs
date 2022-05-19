@@ -1,0 +1,1 @@
+pub fn _match_literals() {}
