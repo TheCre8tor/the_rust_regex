@@ -22,5 +22,5 @@ fn main() {
        Define a search pattern that can be used to 
        to search for things in a string. */
 
-       extract_match::_extract_match();
+       extract_more_matches::_matches();
 }
