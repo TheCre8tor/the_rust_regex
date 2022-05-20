@@ -13,6 +13,9 @@ mod ignore_casel;
 #[path = "./5.extract_matches.rs"]
 mod extract_match;
 
+#[path = "./6.extract_more_matches.rs"]
+mod extract_more_matches;
+
 
 fn main() {
     /* Regular Expressions (RegEx) -
