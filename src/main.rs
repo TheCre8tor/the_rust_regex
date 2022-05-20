@@ -10,11 +10,14 @@ mod regex_or_operator;
 #[path = "./4.ignore_case_while_matching.rs"]
 mod ignore_casel;
 
+#[path = "./5.extract_matches.rs"]
+mod extract_match;
+
 
 fn main() {
     /* Regular Expressions (RegEx) -
        Define a search pattern that can be used to 
        to search for things in a string. */
 
-       ignore_casel::_ignore_case()
+       extract_match::_extract_match();
 }
