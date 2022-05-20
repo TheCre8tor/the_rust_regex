@@ -1,10 +1,5 @@
-#[path = "./1.using_the_match_method.rs"]
-mod match_method;
-
-#[path = "./2.match_literal_strings.rs"]
-mod match_literals;
-
-#[path = "./3.regex_or_operator.rs"]
+mod using_the_match_method;
+mod match_literal_strings;
 mod regex_or_operator;
 
 fn main() {
